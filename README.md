@@ -1,4 +1,4 @@
 simple-php-instagram-api
 ========================
 
-A simple php class to comunicate with the instagram API
+Uma classe PHP bem simples para se comunicar com a API do Instagram.
